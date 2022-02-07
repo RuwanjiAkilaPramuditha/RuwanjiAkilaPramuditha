@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @RuwanjiAkilaPramuditha
 - 👀 I’m interested in Database Administration & UI Design
 - 🌱 I’m currently following Bachelor of Information Technology Degree
+- 💞️ I’m looking to collaborate on GitHub.
+- 📫 How to reach me --> ruwanjidissanayaka@gmail.com
+
 
 
 <!---
